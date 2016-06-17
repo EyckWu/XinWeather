@@ -1,2 +1,2 @@
 # XinWeather
-a simple to check weather
+a simple app to check weather forecast
